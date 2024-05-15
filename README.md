@@ -147,5 +147,5 @@ It is also interesting to see that there are other ways to set the algorithm to 
 
 <h2>Appendix</h2>
 
-<a href="https://ibb.co/0F3xpg6"><img src="https://gitlab.mim-libre.fr/parcoursup/algorithmes-de-parcoursup/-/blob/master/doc/presentation_algorithmes_parcoursup_2023.pdf?ref_type=heads Graphic illustration of how the parcoursup algorithm works.png" alt="Graphic illustration of how the parcoursup algorithm works" border="0"></a>![image](https://github.com/ielgataa/Parcoursup/assets/166377465/518f6bc8-51d6-4ab8-b104-20e9daafda2e)
+<a href="https://ibb.co/0F3xpg6"><img src="https://gitlab.mim-libre.fr/parcoursup/algorithmes-de-parcoursup/-/blob/master/doc/presentation_algorithmes_parcoursup_2023.pdf?ref_type=heads Graphic illustration of how the parcoursup algorithm works.png" alt="Graphic illustration of how the parcoursup algorithm works" border="0"></a>
 
