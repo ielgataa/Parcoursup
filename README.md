@@ -124,8 +124,6 @@ The quota for each program is also limited in practice. In fact, the choice of d
  
 Regarding the administrative burden, it seems that it has been displaced rather than reduced. Indeed, through the platform, students can formulate up to 10 wishes with potential sub-wishes and 10 additional wishes for apprenticeship, while at the end they select only one or none of all these programs. Since the students do not rank their choices, the complexity to go through every single application they receive remains to the higher-education institutions, which can easily become a real burden, complicating the task for the humans behind it and encouraging selection by unsupervised algorithms, which can be dangerous in terms of mistakes and biases. As mentioned by one of the engineers interviewed, “Universities and schools have to deal with exponentially more applications than those who will be selected at the end. For a university such as La Sorbonne which selects 6000 students every year, it would mean that they probably have to deal each year with at least 60 000 applications through the platform.” <p>
 
-![image](https://github.com/ielgataa/Parcoursup/assets/166377465/c4f37baa-44a6-40d1-9203-3c8eb264389a)
-
 
 <h2>How could Parcoursup be used differently, to achieve more equity?</h2>
 
