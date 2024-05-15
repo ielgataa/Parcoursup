@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <h2>Introduction</h2>
 <p>	<i>Parcoursup</i>. For French students and high schoolers, this name can bring up stress and bad memories. Parcoursup is a platform designed by the French Ministry of Education and the French Ministry of Higher Education, Research and Innovation to help solve the stable marriage problem between high school students and universities. It was launched in 2018, replacing the <i>APB</i> portal (Admission Post-Bac), after a CNIL (Commission Nationale de l’Informatique et des Libertés) formal notice. Parcoursup functions with the help of an algorithm, which is updated each year. The platform has received numerous criticisms from the press, teachers and families, questioning its transparency or the social inequalities it perpetuates… Yet, among these condemnations, which ones are actually true, and which ones result from the algorithm itself and its parameters?
-We have chosen to research on this issue, driven by the following question: <b>To what extent can we argue that there is a lack of consistency between the algorithm of Parcoursup and its public representation?</b> By public representation, we understand the elements in the official documentation and discourse of the French state around Parcoursup and its goals.
+We have chosen to research this issue, driven by the following question: <b>To what extent can we argue that there is a lack of consistency between the algorithm of Parcoursup and its public representation?</b> By public representation, we understand the elements in the official documentation and discourse of the French state around Parcoursup and its goals.
 </p>
 
 <h2>Methodology</h2>
@@ -102,7 +102,7 @@ However, for 2024, the opposite decision was taken. The speciality written tests
 
 <h2>How could Parcoursup be used differently, to achieve more equity?</h2>
 
-In the end, Parcousup is only an algorithm, with specific chosen parameters driving certain outcomes. Yet, an algorithm only is an instrumentalisation of a political public action, through technical choices (Tiberj, 2021). Parcousup solely reflects the choice of the decision-makers behind its conception; yet, there could be other ways to operate this algorithm, producing different results of higher education admission for students.
+In the end, Parcousup is only an algorithm, with specific chosen parameters driving certain outcomes. Yet, an algorithm only is an instrumentalisation of a political public action, through technical choices (<a href="https://laviedesidees.fr/Parcoursup-ou-la-selection-par-les-algorithmes">Tiberj, 2021</a>). Parcousup solely reflects the choice of the decision-makers behind its conception; yet, there could be other ways to operate this algorithm, producing different results of higher education admission for students.
 
 This reflection drives the research of sociologist Vincent Tiberj. When French university Sciences Po Bordeaux asked him to parameter an alternative algorithm, V. Tiberj chose to rely on an algorithm which would use the grade average gap (“écarts à la moyenne”) between students, over the current raw grades (“notes brutes”) parameters used by the Parcoursup OAD. Sciences Po Bordeaux uses the Parcousup algorithm to pre-select the candidates deemed “admissible”. Only after this step would there be a qualitative reading of the pre-selected students’ application (motivation letter, extra-academic activities).
 
