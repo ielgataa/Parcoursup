@@ -5,6 +5,11 @@
 We have chosen to research on this issue, driven by the following question: <b>To what extent can we argue that there is a lack of consistency between the algorithm of Parcoursup and its public representation?</b> By public representation, we understand the elements in the official documentation and discourse of the French state around Parcoursup and its goals.
 </p>
 
+<h2>Methodology</h2>
+<p>	To tackle this problem, we primarily considered diving into the code of the Parcoursup algorithm made available by the French Government. However, we soon found out that the code was not going to be extremely useful for our research, as it does not offer more elements than what is already documented in official governmental communication about Parcousup. Hence, we relied on other sources to build our research. First, we dived into academic articles that had been produced about Parcousup by researchers. We completed this analysis with an overview of press articles published about Parcoursup, in order to find out about public opinion around the algorithm and the platform. Finally, we had the chance to conduct interviews with Nicolas Maudet and Khaled Belahcene, experts in algorithms. Nicolas Maudet is an Artificial Intelligence (AI) researcher and Information Technology (IT) teacher at Jussieu University. Khaled Belahcene is a professor at the engineering university, CentraleSupélec.
+This research methodology allowed us to analyse the official government discourse about Parcoursup with governmental documents, as well as public opinion, seeing what was said about Parcoursup in the press. On top of this, the academic research and interviews with experts gave us a more critical analysis of these distinct stances.
+</p>
+
 <p><strong>Stable marriage algorithm<p><strong> </p>
 Parcoursup is based on the algorithm known as “stable marriage” developed by David Gale and Lloyd Shapley in 1962. It was initially designed to answer the following question: given N men and N women, is it possible to form stable couples, i.e. couples in which no man or woman would prefer each other to their respective spouses? Gale and Shapley have shown that if men and women have complete preferences (i.e. a ranking) for individuals of the individuals of the other sex, then it's always possible to form stable couples. In the algorithm they propose men “propose” and women “dispose”. However, the pairing is not necessarily optimal for those who “dispose” (the women in this example) (Lenoir et al, 2019).
 The Parcoursup platform enables students to apply to more than 23,000 higher education programs.
@@ -22,7 +27,7 @@ receive admission offers and choose the school. </p>
  <li>Abandonment of the ranking of wishes by applicants. This choice was motivated by the desire to enable applicants to gradually mature their choices, and to remove the inhibitions potentially induced by prior ranking of wishes.
  <li>Increased role given to the “responsables de formation” at both school and university levels. There is a phase in which applications are examined by the CEVs, including for non-selective courses. This human intervention, required by the CNIL in its formal notice on APB in 2017, results in a pedagogical ranking based on their dossiers.
  <li>Inclusion of quotas for scholarship holders and non-residents set by rectors. The introduction of grant-holder quotas was motivated by the quest for greater social equity.
-However, this priority corresponds to a legal obligation obligation in terms of opportunities (proposals made to applicants), not in terms of results (number of scholarship students finally assigned and enrolled in courses) and does not concern unsaturated courses. The criteria on which the rectors decide on the scholarship rate are not very transparent (Frouillou, Pin & Van Zanten, 2020).</p>
+However, this priority corresponds to a legal obligation in terms of opportunities (proposals made to applicants), not in terms of results (number of scholarship students finally assigned and enrolled in courses) and does not concern unsaturated courses. The criteria on which the rectors decide on the scholarship rate are not very transparent (Frouillou, Pin & Van Zanten, 2020).</p>
 
 </p>Once applications and wishes have been submitted by students, universities give a ranking of the students that expressed interest in them. For each program, Parcoursup sends daily admission proposals to some of the applicants who have confirmed a wish for this program and who have been selected by the wish review committee at the end of its review of applications. Admission proposals are sent in the order of call, calculated by the Parcoursup algorithm. The order of call takes into account, based on the pedagogical ranking, the legal requirements, which are materialized in the quotas set by rectors (Ministère de l’Enseignement Supérieur et de la recherche, 2018).</p>
 
@@ -44,7 +49,7 @@ However, for 2024, the opposite decision was taken. The speciality written tests
 </head>
 <body>
 
-<h2>Positive Aspects in the Implementation of Parcoursup’s Algorithm (Ismail)</h2>
+<h2>Positive Aspects in the Implementation of Parcoursup’s Algorithm </h2>
 
 <p><strong>Transparency of Parameters</strong></p>
 <p>
@@ -73,7 +78,7 @@ However, for 2024, the opposite decision was taken. The speciality written tests
     Following a Jacobin political rhetoric, the Parcoursup algorithm considers all grades on the French territory to be equivalent. Legally, the algorithm cannot be programmed depending on each high school, whether they are high or low ranked, public or private. All students are hence supposedly considered equally by the algorithm, no matter the high school they attended. This vision also has its limits when considered under an equity principle, potentially disadvantaging the students coming from “Réseaux d’Education Prioritaire”.
 </p>
 <p>
-    The Parcousup system does not take into consideration missing grades, considering that every student must be ranked. This principle puts on an equal setting for all students, no matter how many absences of attendance they might have, which is considerate towards students who might have complicated personal situations and lives. Yet, this also has its limits (maybe too precise but I don’t wanna point out laziness of some students lol).
+    The Parcousup system does not take into consideration missing grades, considering that every student must be ranked. This principle puts on an equal setting for all students, no matter how many absences of attendance they might have, which is considerate towards students who might have complicated personal situations and lives. Yet, this also has its limits.
 </p>
 
 <p><strong>Reduced Administrative Burden</strong></p>
