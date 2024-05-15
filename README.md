@@ -5,6 +5,7 @@
 <h2>Introduction</h2>
 <p>	<i>Parcoursup</i>. For French students and high schoolers, this name can bring up stress and bad memories. <a href="https://www.parcoursup.gouv.fr/">Parcoursup</a> is a platform designed by the French Ministry of Education and the French Ministry of Higher Education, Research and Innovation to help solve the stable marriage problem between high school students and universities. It was launched in 2018, replacing the <i>APB</i> portal (Admission Post-Bac), after a CNIL (Commission Nationale de l’Informatique et des Libertés) formal notice. Parcoursup functions with the help of an algorithm, which is updated each year. The platform has received numerous criticisms from the press, teachers and families, questioning its transparency or the social inequalities it perpetuates… Yet, among these condemnations, which ones are actually true, and which ones result from the algorithm itself and its parameters?
 We have chosen to research this issue, driven by the following question: <b>To what extent can we argue that there is a lack of consistency between the algorithm of Parcoursup and its public representation?</b> By public representation, we understand the elements in the official documentation and discourse of the French state around Parcoursup and its goals.
+
 </p>
 
 <h2>Methodology</h2>
@@ -147,5 +148,5 @@ It is also interesting to see that there are other ways to set the algorithm to 
 
 <h2>Appendix</h2>
 
-<a href="https://ibb.co/0F3xpg6"><img src="https://gitlab.mim-libre.fr/parcoursup/algorithmes-de-parcoursup/-/blob/master/doc/presentation_algorithmes_parcoursup_2023.pdf?ref_type=heads Graphic illustration of how the parcoursup algorithm works.png" alt="Graphic illustration of how the parcoursup algorithm works" border="0"></a>
+<img width="597" alt="Capture d’écran 2024-05-15 à 21 35 29" src="https://github.com/ielgataa/Parcoursup/assets/166377465/572e4a93-ca56-4b51-b101-8002501fb199">
 
