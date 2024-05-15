@@ -29,7 +29,7 @@ receive admission offers and choose the school. </p>
 <a href="https://ibb.co/yS3BrtK"><img src="https://i.ibb.co/4dQgHzC/Design-sans-titre.png" alt="Design-sans-titre" border="0"></a>
 
 <p><strong>Innovations compared to APB</strong> </p>
-Compared to APB, Parcoursup introduces four major innovations (Lenoir et al, 2019):
+<p>Compared to APB, Parcoursup introduces four major innovations (Lenoir et al, 2019):
  <li>Abandonment of the random selection system for non-selective courses in short supply, which had been perceived as arbitrary.
  <li>Abandonment of the ranking of wishes by applicants. This choice was motivated by the desire to enable applicants to gradually mature their choices, and to remove the inhibitions potentially induced by prior ranking of wishes.
  <li>Increased role given to the “responsables de formation” at both school and university levels. There is a phase in which applications are examined by the CEVs, including for non-selective courses. This human intervention, required by the CNIL in its formal notice on APB in 2017, results in a pedagogical ranking based on their dossiers.
