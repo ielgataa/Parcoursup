@@ -12,6 +12,8 @@ We have chosen to research this issue, driven by the following question: <b>To w
 This research methodology allowed us to analyse the official government discourse about Parcoursup with governmental documents, as well as public opinion, seeing what was said about Parcoursup in the press. On top of this, the academic research and interviews with experts gave us a more critical analysis of these distinct stances.
 </p>
 
+<h2>Presentation of the Parcoursup algorithm</h2>
+
 <p><strong>Stable marriage algorithm<p></p></strong> </p>
 Parcoursup is based on the algorithm known as “stable marriage” developed by David Gale and Lloyd Shapley in 1962. It was initially designed to answer the following question: given N men and N women, is it possible to form stable couples, i.e. couples in which no man or woman would prefer each other to their respective spouses? Gale and Shapley have shown that if men and women have complete preferences (i.e. a ranking) for individuals of the individuals of the other sex, then it's always possible to form stable couples. In the algorithm they propose men “propose” and women “dispose”. However, the pairing is not necessarily optimal for those who “dispose” (the women in this example) (Lenoir et al, 2019).
 The Parcoursup platform enables students to apply to more than 23,000 higher education programs.
@@ -22,7 +24,7 @@ assemble the application, which will then be sent to the programs selected.
 freely formulate your wishes for the programs that interest them;
 receive admission offers and choose the school. </p>
 
-<a href="https://ibb.co/g6T6Qpm"><img src="https://i.ibb.co/hCWCrjL/Stable-marriage.png" alt="Stable-marriage" border="0"></a><a href="https://ibb.co/yS3BrtK"><img src="https://i.ibb.co/4dQgHzC/Design-sans-titre.png" alt="Design-sans-titre" border="0"></a>
+</a><a href="https://ibb.co/yS3BrtK"><img src="https://i.ibb.co/4dQgHzC/Design-sans-titre.png" alt="Design-sans-titre" border="0"></a>
 
 <p><strong>Innovations compared to APB<p></strong> </p>
 </p>Compared to APB, Parcoursup introduces four major innovations (Lenoir et al, 2019):</p>
@@ -40,7 +42,7 @@ The algortihm was first deployed in 2018. In 2019, after the first experience, s
  <li>The introduction of stages. Three stages have been introduced: on June 25, July 6 and July 17, at the close of the main phase. Applicants were then asked to confirm their wishes within three days, otherwise they would be deleted by the platform.  This measure aims to avoid dormant wishes.
  <li>Better information for candidates on their position in the waiting lists by displaying the rank in the waiting lists of the students admitted last year.
      
-</p>For 2021, there were some changes regarding CEVs. Until now, the CEVs (Commissions d'Examen des Vœux de Parcoursup) only had the marks from the French bac and the school reports transcribed in the Avenir form. From now on, the CEVs will have access to almost three quarters of the bac grades to establish their rankings. The CEVs will have around 30% of the bac grade at their disposal. For the 60% made up of national exams, the CEVs will have the marks for the French bac (10%) and the two speciality exams (16% each) (Lenoir et al, 2022).</p>
+</p>For 2021, there were some changes regarding CEVs. Until now, the CEVs (Commissions d'Examen des Vœux de Parcoursup) only had the marks from the French bac and the school reports transcribed in the Avenir form. From now on, the CEVs will have access to almost three-quarters of the bac grades to establish their rankings. The CEVs will have around 30% of the baccalauréat grade at their disposal. For the 60% made up of national exams, the CEVs will have the marks for the French bac (10%) and the two speciality exams (16% each) (Lenoir et al, 2022).</p>
 
 </p>In 2023, the Baccalauréat and Parcoursup calendars converged to integrate high school students' marks from the final exams for speciality courses into the Parcoursup file. This reinforces the weight of the Baccalauréat final exams for access to higher education (Ministere de l’Éducation Nationale et de la Jeunesse, 2023).
 However, for 2024, the opposite decision was taken. The speciality written tests will take place from June 19 to 21. This decision is in response to criticism from lycée teachers and headteachers concerning the the high level of absenteeism in the 3rd trimester, as students considered the year to be over, and the impossibility of “finishing the program”. The files examined by the (CEV) in 2024 will therefore only include marks for continuous assessment grades. This seemingly insoluble contradiction is based on many implicit assumptions that have not been sufficiently explained and discussed (Cuesta, C. et al., 2024).</p>
@@ -48,7 +50,6 @@ However, for 2024, the opposite decision was taken. The speciality written tests
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Positive Aspects of Parcoursup's Algorithm</title>
 </head>
 <body>
 
