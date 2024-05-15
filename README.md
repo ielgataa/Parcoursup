@@ -2,6 +2,18 @@
 
 <a href="https://ibb.co/g6T6Qpm"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_parcoursup.svg/2560px-Logo_parcoursup.svg.png" alt="Parcoursup" border="0"></a>
 
+## Table of Content
+
+- [Introduction](#introduction)
+- [Methodology](#methodology)
+- [Presentation of the Parcoursup algorithm](#presentation-of-the-parcoursup-algorithm)
+- [Positive Aspects in the Implementation of Parcoursup’s Algorithm](#positive-aspects-in-the-implementation-of-parcoursup's-algorithm)
+- [Limitations of Parcoursup’s algorithm](#limitations-of-parcoursup's-algorithm)
+- [How could Parcoursup be used differently, to achieve more equity?](#how-could-parcoursup-be-used-differently-to-achieve-more-equity)
+- [Conclusive thoughts](#conclusive-thoughts)
+  
+
+
 <h2>Introduction</h2>
 <p>	<i>Parcoursup</i>. For French students and high schoolers, this name can bring up stress and bad memories. <a href="https://www.parcoursup.gouv.fr/">Parcoursup</a> is a platform designed by the French Ministry of Education and the French Ministry of Higher Education, Research and Innovation to help solve the stable marriage problem between high school students and universities. It was launched in 2018, replacing the <i>APB</i> portal (Admission Post-Bac), after a CNIL (Commission Nationale de l’Informatique et des Libertés) formal notice. Parcoursup functions with the help of an algorithm, which is updated each year. The platform has received numerous criticisms from the press, teachers and families, questioning its transparency or the social inequalities it perpetuates… Yet, among these condemnations, which ones are actually true, and which ones result from the algorithm itself and its parameters?
 We have chosen to research this issue, driven by the following question: <b>To what extent can we argue that there is a lack of consistency between the algorithm of Parcoursup and its public representation?</b> By public representation, we understand the elements in the official documentation and discourse of the French state around Parcoursup and its goals.
