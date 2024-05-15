@@ -1,5 +1,7 @@
 # Parcoursup
 <!DOCTYPE html>
+<a href="https://ibb.co/g6T6Qpm"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_parcoursup.svg/2560px-Logo_parcoursup.svg.png" alt="Parcoursup" border="0"></a>
+
 <h2>Introduction</h2>
 <p>	<i>Parcoursup</i>. For French students and high schoolers, this name can bring up stress and bad memories. Parcoursup is a platform designed by the French Ministry of Education and the French Ministry of Higher Education, Research and Innovation to help solve the stable marriage problem between high school students and universities. It was launched in 2018, replacing the <i>APB</i> portal (Admission Post-Bac), after a CNIL (Commission Nationale de l’Informatique et des Libertés) formal notice. Parcoursup functions with the help of an algorithm, which is updated each year. The platform has received numerous criticisms from the press, teachers and families, questioning its transparency or the social inequalities it perpetuates… Yet, among these condemnations, which ones are actually true, and which ones result from the algorithm itself and its parameters?
 We have chosen to research this issue, driven by the following question: <b>To what extent can we argue that there is a lack of consistency between the algorithm of Parcoursup and its public representation?</b> By public representation, we understand the elements in the official documentation and discourse of the French state around Parcoursup and its goals.
@@ -20,7 +22,7 @@ assemble the application, which will then be sent to the programs selected.
 freely formulate your wishes for the programs that interest them;
 receive admission offers and choose the school. </p>
 
-<a href="https://ibb.co/g6T6Qpm"><img src="https://i.ibb.co/hCWCrjL/Stable-marriage.png" alt="Stable-marriage" border="0"></a>
+<a href="https://ibb.co/g6T6Qpm"><img src="https://i.ibb.co/hCWCrjL/Stable-marriage.png" alt="Stable-marriage" border="0"></a><a href="https://ibb.co/yS3BrtK"><img src="https://i.ibb.co/4dQgHzC/Design-sans-titre.png" alt="Design-sans-titre" border="0"></a>
 
 <p><strong>Innovations compared to APB<p></strong> </p>
 </p>Compared to APB, Parcoursup introduces four major innovations (Lenoir et al, 2019):</p>
@@ -116,6 +118,6 @@ To sum up, there seems to be a certain gap between the official discourse of the
 However, when we look at the ways the algorithm is parameterized and used by the platform, it seems to contradict this official stance from the government. First, the objective of social equity stated is limited, as it ultimately depends on each rectorate and does not solve self-censorship issues. Furthermore, the displaced problem of administrative burden ends up putting even more importance on the grades, the qualitative analysis of applications being disregarded in the process. Finally, despite the claimed improved transparency from the APB algorithm, there is no clear clarity about the choices behind the Parcoursup algorithm.
 
 In the end, we can conclude that the Parcoursup algorithm is not flawed in itself. However, the way it is parametered to serve a political purpose which is not clearly mentioned contradicts the official discourse of the government.
-It is also interesting to see that there are other ways to set the algorithm to achieve more social equity, as seen in the work of V. Tiberj who set a new algorithm for the University of Sciences Po Bordeaux (Tiberj, 2021). If the French government really wanted to achieve this end, there would be ways to do it with the existing algorithm. This really puts into perspective the instrumentalisation and the political choices behind the Parcousup algorithm.
+It is also interesting to see that there are other ways to set the algorithm to achieve more social equity, as seen in the work of V. Tiberj who set a new algorithm for the University of Sciences Po Bordeaux (<a href="https://laviedesidees.fr/Parcoursup-ou-la-selection-par-les-algorithmes">Tiberj, 2021</a>). If the French government really wanted to achieve this end, there would be ways to do it with the existing algorithm. This really puts into perspective the instrumentalisation and the political choices behind the Parcousup algorithm.
 
 
