@@ -164,4 +164,5 @@ It is also interesting to see that there are other ways to set the algorithm to 
 Graphic illustration of how Parcoursup's algorithm works
 
 <img width="597" alt="Capture d’écran 2024-05-15 à 21 35 29" src="https://github.com/ielgataa/Parcoursup/assets/166377465/572e4a93-ca56-4b51-b101-8002501fb199">
+
 Source: Documentation relative à l'implémentation de Parcoursup 2023
