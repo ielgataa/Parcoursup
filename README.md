@@ -2,7 +2,7 @@
 
 <a href="https://ibb.co/g6T6Qpm"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_parcoursup.svg/2560px-Logo_parcoursup.svg.png" alt="Parcoursup" border="0"></a>
 
-## Table of Content
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Methodology](#methodology)
