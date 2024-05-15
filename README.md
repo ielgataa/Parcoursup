@@ -10,7 +10,7 @@ We have chosen to research on this issue, driven by the following question: <b>T
 This research methodology allowed us to analyse the official government discourse about Parcoursup with governmental documents, as well as public opinion, seeing what was said about Parcoursup in the press. On top of this, the academic research and interviews with experts gave us a more critical analysis of these distinct stances.
 </p>
 
-<p><strong>Stable marriage algorithm<p><strong> </p>
+<p><strong>Stable marriage algorithm<p></p></strong> </p>
 Parcoursup is based on the algorithm known as “stable marriage” developed by David Gale and Lloyd Shapley in 1962. It was initially designed to answer the following question: given N men and N women, is it possible to form stable couples, i.e. couples in which no man or woman would prefer each other to their respective spouses? Gale and Shapley have shown that if men and women have complete preferences (i.e. a ranking) for individuals of the individuals of the other sex, then it's always possible to form stable couples. In the algorithm they propose men “propose” and women “dispose”. However, the pairing is not necessarily optimal for those who “dispose” (the women in this example) (Lenoir et al, 2019).
 The Parcoursup platform enables students to apply to more than 23,000 higher education programs.
 Within the framework of a single dossier, students can use a single application to (République Française, 2024):
@@ -22,7 +22,7 @@ receive admission offers and choose the school. </p>
 
 <a href="https://ibb.co/g6T6Qpm"><img src="https://i.ibb.co/hCWCrjL/Stable-marriage.png" alt="Stable-marriage" border="0"></a>
 
-<p><strong>Innovations compared to APB<p><strong> </p>
+<p><strong>Innovations compared to APB<p></strong> </p>
 </p>Compared to APB, Parcoursup introduces four major innovations (Lenoir et al, 2019):</p>
  <li>Abandonment of the random selection system for non-selective courses in short supply, which had been perceived as arbitrary.
  <li>Abandonment of the ranking of wishes by applicants. This choice was motivated by the desire to enable applicants to gradually mature their choices, and to remove the inhibitions potentially induced by prior ranking of wishes.
@@ -32,7 +32,7 @@ However, this priority corresponds to a legal obligation in terms of opportuniti
 
 </p>Once applications and wishes have been submitted by students, universities give a ranking of the students that expressed interest in them. For each program, Parcoursup sends daily admission proposals to some of the applicants who have confirmed a wish for this program and who have been selected by the wish review committee at the end of its review of applications. Admission proposals are sent in the order of call, calculated by the Parcoursup algorithm. The order of call takes into account, based on the pedagogical ranking, the legal requirements, which are materialized in the quotas set by rectors (Ministère de l’Enseignement Supérieur et de la recherche, 2018).</p>
 
-<p><strong>Changes<p><strong> </p>
+<p><strong>Changes<p></strong> </p>
 The algortihm was first deployed in 2018. In 2019, after the first experience, some changes were implemented (Lenoir et al, 2020):
  <li>The integration of new programs into Parcoursup and the systematic requirement of a leaving certificate for applications outside Parcoursup.
  <li>The introduction of stages. Three stages have been introduced: on June 25, July 6 and July 17, at the close of the main phase. Applicants were then asked to confirm their wishes within three days, otherwise they would be deleted by the platform.  This measure aims to avoid dormant wishes.
@@ -98,5 +98,17 @@ However, for 2024, the opposite decision was taken. The speciality written tests
 <p>
     The change brought by Parcoursup significantly simplifies a plethora of processes and procedures, hence reducing the bureaucratic burden on administrations related to the education ministry and academic institutions. Therefore, we should be positive to say that Parcoursup saves French society and State a significant, yet not quantified, amount of economic resources.
 </p>
-
 </body>
+
+<h2>How could Parcoursup be used differently, to achieve more equity?</h2>
+
+In the end, Parcousup is only an algorithm, with specific chosen parameters driving certain outcomes. Yet, an algorithm only is an instrumentalisation of a political public action, through technical choices (Tiberj, 2021). Parcousup solely reflects the choice of the decision-makers behind its conception; yet, there could be other ways to operate this algorithm, producing different results of higher education admission for students.
+
+This reflection drives the research of sociologist Vincent Tiberj. When French university Sciences Po Bordeaux asked him to parameter an alternative algorithm, V. Tiberj chose to rely on an algorithm which would use the grade average gap (“écarts à la moyenne”) between students, over the current raw grades (“notes brutes”) parameters used by the Parcoursup OAD. Sciences Po Bordeaux uses the Parcousup algorithm to pre-select the candidates deemed “admissible”. Only after this step would there be a qualitative reading of the pre-selected students’ application (motivation letter, extra-academic activities).
+
+Comparing the results of the two different algorithms, V. Tiberj concluded that his “homemade” algorithm achieved better social democratisation, as well as territorial diversity, an objective expressed by Sciences Po Bordeaux. Indeed, the university historically admits a majority of students coming from the area surrounding it, as they are more driven to apply to a university located near their residence and are proportionally more important than students from other areas of France.
+
+Hence, a simple modification in the algorithm parameters, ranking students on one kind of qualitative data over another can significantly change the outcome of the admission. This contributes to the idea that the Parcoursup algorithm is not in itself discriminatory, but it is the way it is used and the goals driving its conception that might be.
+
+
+
