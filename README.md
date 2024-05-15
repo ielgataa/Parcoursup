@@ -29,12 +29,12 @@ receive admission offers and choose the school. </p>
 <a href="https://ibb.co/yS3BrtK"><img src="https://i.ibb.co/4dQgHzC/Design-sans-titre.png" alt="Design-sans-titre" border="0"></a>
 
 <p><strong>Innovations compared to APB</strong> </p>
-<p>Compared to APB, Parcoursup introduces four major innovations (Lenoir et al, 2019):
+Compared to APB, Parcoursup introduces four major innovations (Lenoir et al, 2019):
  <li>Abandonment of the random selection system for non-selective courses in short supply, which had been perceived as arbitrary.
  <li>Abandonment of the ranking of wishes by applicants. This choice was motivated by the desire to enable applicants to gradually mature their choices, and to remove the inhibitions potentially induced by prior ranking of wishes.
  <li>Increased role given to the “responsables de formation” at both school and university levels. There is a phase in which applications are examined by the CEVs, including for non-selective courses. This human intervention, required by the CNIL in its formal notice on APB in 2017, results in a pedagogical ranking based on their dossiers.
  <li>Inclusion of quotas for scholarship holders and non-residents set by rectors. The introduction of grant-holder quotas was motivated by the quest for greater social equity.
-However, this priority corresponds to a legal obligation in terms of opportunities (proposals made to applicants), not in terms of results (number of scholarship students finally assigned and enrolled in courses) and does not concern unsaturated courses. The criteria on which the rectors decide on the scholarship rate are not very transparent (Frouillou, Pin & Van Zanten, 2020).</p>
+<p>However, this priority corresponds to a legal obligation in terms of opportunities (proposals made to applicants), not in terms of results (number of scholarship students finally assigned and enrolled in courses) and does not concern unsaturated courses. The criteria on which the rectors decide on the scholarship rate are not very transparent (Frouillou, Pin & Van Zanten, 2020).</p>
 
 <p>Once applications and wishes have been submitted by students, universities give a ranking of the students that expressed interest in them. For each program, Parcoursup sends daily admission proposals to some of the applicants who have confirmed a wish for this program and who have been selected by the wish review committee at the end of its review of applications. Admission proposals are sent in the order of call, calculated by the Parcoursup algorithm. The order of call takes into account, based on the pedagogical ranking, the legal requirements, which are materialized in the quotas set by rectors (Ministère de l’Enseignement Supérieur et de la recherche, 2018).</p>
 
