@@ -20,6 +20,7 @@ assemble the application, which will then be sent to the programs selected.
 freely formulate your wishes for the programs that interest them;
 receive admission offers and choose the school. </p>
 
+<a href="https://ibb.co/g6T6Qpm"><img src="https://i.ibb.co/hCWCrjL/Stable-marriage.png" alt="Stable-marriage" border="0"></a>
 
 <p><strong>Innovations compared to APB<p><strong> </p>
 </p>Compared to APB, Parcoursup introduces four major innovations (Lenoir et al, 2019):</p>
