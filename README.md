@@ -103,7 +103,7 @@ However, for 2024, the opposite decision was taken. The speciality written tests
 </p>
 </body>
 
-<h2>Limitations regarding Parcoursup’s algorithm</h2>
+<h2>Limitations of Parcoursup’s algorithm</h2>
 
 <p><strong>Transparency Limitations</strong></p>
 <p>
