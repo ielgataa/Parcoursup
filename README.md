@@ -11,6 +11,7 @@
 - [Limitations of Parcoursup’s algorithm](#limitations-of-parcoursup's-algorithm)
 - [How could Parcoursup be used differently, to achieve more equity?](#how-could-parcoursup-be-used-differently-to-achieve-more-equity)
 - [Conclusive thoughts](#conclusive-thoughts)
+- [Appendix](#appendix)
   
 
 
