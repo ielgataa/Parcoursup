@@ -145,4 +145,7 @@ However, when we look at the ways the algorithm is parameterized and used by the
 In the end, we can conclude that the Parcoursup algorithm is not flawed in itself. However, the way it is parametered to serve a political purpose which is not clearly mentioned contradicts the official discourse of the government.
 It is also interesting to see that there are other ways to set the algorithm to achieve more social equity, as seen in the work of V. Tiberj who set a new algorithm for the University of Sciences Po Bordeaux (<a href="https://laviedesidees.fr/Parcoursup-ou-la-selection-par-les-algorithmes">Tiberj, 2021</a>). If the French government really wanted to achieve this end, there would be ways to do it with the existing algorithm. This really puts into perspective the instrumentalisation and the political choices behind the Parcousup algorithm.
 
+<h2>Appendix</h2>
+
+<a href="https://ibb.co/0F3xpg6"><img src="https://ibb.co/0F3xpg6 Graphic illustration of how the parcoursup algorithm works.png" alt="Graphic illustration of how the parcoursup algorithm works" border="0"></a>![image](https://github.com/ielgataa/Parcoursup/assets/166377465/518f6bc8-51d6-4ab8-b104-20e9daafda2e)
 
