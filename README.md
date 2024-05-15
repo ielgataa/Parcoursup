@@ -105,6 +105,30 @@ However, for 2024, the opposite decision was taken. The speciality written tests
 
 <h2>How could Parcoursup be used differently, to achieve more equity?</h2>
 
+<p><strong>Transparency Limitations</strong></p>
+<p>
+ 
+Transparency is often mentioned as the real added value of Parcoursup’s algorithm. However, it seems that it is still not completely achieved. According to the engineers we consulted and further readings, in computer science theory, there is a clear distinction to be made between “the formulation of the problem”, “the algorithm” and “its implementation process”. In the case of Parcoursup, the algorithm and its implementation process are indeed very well documented since the code and some additional information are open-source and freely available online. However, when it comes to the formulation of the problem, there is more blur regarding the answer, and we cannot really find why exactly this specific algorithm has been implemented. As stated by one of the interviewees, “Nobody ever questions the problem we are trying to solve with Parcoursup, it is not documented {…}. Why this specific matching model has been chosen among so many other?”. Indeed, the stable marriage problem as theorized by Gale and Shapley has many possibilities and the choice of this specific one has never been justified. <p>
+ 
+<p><strong> Towards the renewal of some inequalities</strong></p>
+<p>
+ 
+While the fairness and equitable aspects of Parcoursup are also often praised by the French Government, Parcoursup’s algorithm seems in practice to contribute to the renewal of some inequalities. First, there is no ranking of their preferences for the high-schoolers and students, which means that for many of them it takes longer for the algorithm to find the perfect match. Sometimes, it can take until the very end of the summer. However, not all students can wait until the last minute to join a higher education program. Indeed, it often implies that the student must move to another city and/or make organizational sacrifices that some students can’t afford. Therefore, only the high-schoolers and students who have the financial means necessary would be able to join the program which contributes to the exacerbation of existing socio-economic inequalities. 
+
+The quota for each program is also limited in practice. In fact, the choice of determining the quota of scholarship-holders for each program lies with the rector of each academy and is not uniform at national level. The only rule they all have to respect is the minimum threshold of 5%. As a result, some rectors have repeatedly chosen to demand a very low rate. Unsurprisingly, this is the case for the Paris académie, which is home to the most prestigious universities and schools, a point that has been emphasized on numerous occasions. Consequently, the proportion of scholarship holders has indeed risen among those admitted through Parcoursup since the introduction of quotas, but their rate has tended to stagnate, or even decline in selective programs.
+ 
+<p>
+
+<p><strong> An administrative burden displaced rather than reduced</strong></p>
+<p>
+ 
+Regarding the administrative burden, it seems that it has been displaced rather than reduced. Indeed, through the platform, students can formulate up to 10 wishes with potential sub-wishes and 10 additional wishes for apprenticeship, while at the end they select only one or none of all these programs. Since the students do not rank their choices, the complexity to go through every single application they receive remains to the higher-education institutions, which can easily become a real burden, complicating the task for the humans behind it and encouraging selection by unsupervised algorithms, which can be dangerous in terms of mistakes and biases. As mentioned by one of the engineers interviewed, “Universities and schools have to deal with exponentially more applications than those who will be selected at the end. For a university such as La Sorbonne which selects 6000 students every year, it would mean that they probably have to deal each year with at least 60 000 applications through the platform.” <p>
+
+![image](https://github.com/ielgataa/Parcoursup/assets/166377465/c4f37baa-44a6-40d1-9203-3c8eb264389a)
+
+
+<h2>How could Parcoursup be used differently, to achieve more equity?</h2>
+
 In the end, Parcousup is only an algorithm, with specific chosen parameters driving certain outcomes. Yet, an algorithm only is an instrumentalisation of a political public action, through technical choices (<a href="https://laviedesidees.fr/Parcoursup-ou-la-selection-par-les-algorithmes">Tiberj, 2021</a>). Parcousup solely reflects the choice of the decision-makers behind its conception; yet, there could be other ways to operate this algorithm, producing different results of higher education admission for students.
 
 This reflection drives the research of sociologist Vincent Tiberj. When French university Sciences Po Bordeaux asked him to parameter an alternative algorithm, V. Tiberj chose to rely on an algorithm which would use the grade average gap (“écarts à la moyenne”) between students, over the current raw grades (“notes brutes”) parameters used by the Parcoursup OAD. Sciences Po Bordeaux uses the Parcousup algorithm to pre-select the candidates deemed “admissible”. Only after this step would there be a qualitative reading of the pre-selected students’ application (motivation letter, extra-academic activities).
