@@ -33,7 +33,7 @@ This research methodology allowed us to analyse the official government discours
 <p><strong>Stable marriage algorithm</strong> </p>
 Parcoursup is based on the algorithm known as “stable marriage” developed by David Gale and Lloyd Shapley in 1962. It was initially designed to answer the following question: given N men and N women, is it possible to form stable couples, i.e. couples in which no man or woman would prefer each other to their respective spouses? Gale and Shapley have shown that if men and women have complete preferences (i.e. a ranking) for individuals of the individuals of the other sex, then it's always possible to form stable couples. In the algorithm they propose men “propose” and women “dispose”. However, the pairing is not necessarily optimal for those who “dispose” (the women in this example) <a href="https://services.dgesip.fr/fichiers/Rapport_du_CESP_1061363.pdf">(Lenoir et al, 2019)</a>.
 The Parcoursup platform enables students to apply to more than 23,000 higher education programs.
-Within the framework of a single dossier, students can use a single application to href="https://www.parcoursup.gouv.fr/decouvrir-parcoursup/parcoursup-c-est-quoi-1061-1061">(République Française, 2024)</a>:
+Within the framework of a single dossier, students can use a single application to <a href="https://www.parcoursup.gouv.fr/decouvrir-parcoursup/parcoursup-c-est-quoi-1061-1061">(République Française, 2024)</a>:
  <li>consult the full range of post-baccalaureate programs on offer;
  <li>find the information such as: course status, tuition fees, criteria for analyzing applications, demand levels and success/employment rates;
  <li>assemble the application, which will then be sent to the programs selected.
